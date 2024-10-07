@@ -54,3 +54,6 @@
 - `frames`: Количество кадров анимации.
 
 ## Скрины
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/23b5ceec-5184-4852-b552-70df37715a09">
+<img width="556" alt="image" src="https://github.com/user-attachments/assets/fdcb7064-ac62-4b44-a7fd-dd69f316e95f">
+
